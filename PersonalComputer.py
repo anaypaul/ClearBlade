@@ -33,7 +33,7 @@ mySystem = addNewSystem(SystemKey, SystemSecret)
 
 #authenticating a user by connecting
 email = "anay.paul2@gmail.com"
-password = "Omshanti@123"
+password = "*********"
 anay = authenticateUser(mySystem,email, password)
 # print anay
 
